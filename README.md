@@ -18,7 +18,7 @@
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 
 ### 💻 &nbsp;GitHub Analytics
-[![Github stats](https://github-readme-stats-worktpwls.vercel.app/api?username=worktpwls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/worktpwls/github-readme-stats)
+[![Github stats](https://github-readme-stats-worktpwls.vercel.app/api?username=worktpwls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/worktpwls/github-readme-stats)
 [![Top Langs](https://github-readme-stats-worktpwls.vercel.app/api/top-langs/?username=worktpwls&layout=compact&theme=algolia)](https://github.com/worktpwls/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Links
