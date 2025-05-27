@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats-worktpwls.vercel.app/api/top-langs/?username=worktpwls&layout=compact&theme=algolia)](https://github.com/worktpwls/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Links
-<a href="https://workcoding.tistory.com/"><img src="https://img.shields.io/badge/Blog-Web-blue"/></a>
+<a href="https://seroi-programming.tistory.com/"><img src="https://img.shields.io/badge/Blog-Web-blue"/></a>
 <a href="https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EC%9E%A5-4604a1360/"><img src="https://img.shields.io/badge/Linkedin-Web-blue"/></a>
 <a href="https://worktpwls.github.io"><img src="https://img.shields.io/badge/Portfoilo-Web-blue"/></a>\
 <a href="worktpwls@gmail.com"><img src="https://img.shields.io/badge/-worktpwls@gmail.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
