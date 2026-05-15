@@ -18,22 +18,6 @@ RAG · Computer Vision · On-Premise LLM Deployment
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📍 Current Work
-
-삼성 E&A 사내 폐쇄망에서 LLM 온프레미스 RAG 시스템을 구축·운영합니다.
-
-- 추론 서빙: vLLM·SGLang 비교 평가 후 **SGLang 메인 채택** (RadixAttention 기반 KV 캐시 공유 구조가 검색-재순위-생성 멀티 스텝 RAG에 적합)
-- 모델·인덱싱: Gemma 계열 fine-tuning · BAAI/BGE-M3 (1024d) · BGE-Reranker-v2-M3 · Qdrant
-- 인프라: 온프레미스 GPU **DGX Spark**, 모델 핫스왑 운영 자동화
-
-## 🗂️ Core Competencies
-
-- **Enterprise RAG · On-Premise LLM Deployment** — vLLM / SGLang / Ollama · Qdrant · BGE · LangChain · DGX Spark
-- **Computer Vision for Industrial Inspection** — YOLO Detection · Segmentation · Pose Estimation · OpenCV
-- **AR & Mobile AI Engineering** — Unity · AR Foundation · Markerless AR · Point Cloud · Android·iOS
-- **SDK Productization & End-to-End Delivery** — 학습→배포→Unity Package SDK (DTA-Core)
-- **On-Device / Edge AI** — PyTorch fine-tuning · Native 라이브러리화 · 오프라인-온라인 정합 보정
-
 ## 📂 Projects
 
 | 클라이언트 | 프로젝트 | 도메인 | 핵심 기술 | 기간 |
