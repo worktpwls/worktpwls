@@ -23,7 +23,7 @@ RAG · Computer Vision · On-Premise LLM Deployment
 | 클라이언트 | 프로젝트 | 도메인 | 핵심 기술 | 기간 |
 |---|---|---|---|---|
 | **삼성 E&A** | 사내 폐쇄망 RAG 시스템 | Enterprise RAG | SGLang · Qdrant · BGE-M3 · LangChain · DGX Spark | 2026.01 ~ 진행 중 |
-| **삼성 E&A** | 온디바이스 LLM R&D | Edge AI | PyTorch · Android·iOS Native · FP16 양자화 | 2025.10 ~ 진행 중 |
+| (사내 R&D) | 온디바이스 LLM R&D | Edge AI | PyTorch · YOLO · LLM · Android·iOS Native | 2025.10 ~ 진행 중 |
 | **한국건설기술연구원 (KICT)** | 교량 검측 AI (DTA-Core SDK화) | Industrial CV · AR | YOLO Det·Seg·Pose · OpenCV Hu-Moment · Unity AR Foundation | 2025.05 ~ 2026.02 |
 | **싱가포르 HDB** | 공공주택 불법 적치물 검출 | Public CV · AR | YOLO Segment · Roboflow · AR Foundation · Google Maps API | 2025.02 ~ 2025.08 |
 | **삼성 DS** | 반도체 라인 디지털 트윈 | Digital Twin | NVIDIA Omniverse · Isaac Sim | 2024.08 ~ 2025.02 |
