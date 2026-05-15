@@ -1,28 +1,55 @@
-![](https://komarev.com/ghpvc/?username=worktpwls&abbreviated=true)
+# 안녕하세요, 장세진(Sejin Jang)입니다 👋
 
-## 👋 &nbsp;클라이언트 개발자 장세진입니다.
+산업·공공 도메인 응용 AI 엔지니어 · 5년차
+RAG · Computer Vision · On-Premise LLM Deployment
 
-✔️ &nbsp;**상상을 현실로 만드는 서비스**에 관심이 많습니다.\
-✔️ &nbsp;**인큐베이션 개발**을 통한 **빠른 검증**과 **실현 가능성 판단**에 능숙합니다.\
-✔️ &nbsp;프로젝트의 **시작과 끝까지** 참여하며, **지식 공유**를 통해 함께 성장하는 문화를 추구합니다.
+---
 
-### 🛠 &nbsp;Technical Skills
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Omniverse](https://img.shields.io/badge/-Omniverse-05122A?style=flat&logo=nvidia)&nbsp;
-![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=unrealengine)&nbsp;\
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=dotnet)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
+## 🔧 Tech Stack
 
-### 💻 &nbsp;GitHub Analytics
-[![Github stats](https://github-readme-stats-worktpwls.vercel.app/api?username=worktpwls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&private_contributions=true)](https://github.com/worktpwls/github-readme-stats)
-[![Top Langs](https://github-readme-stats-worktpwls.vercel.app/api/top-langs/?username=worktpwls&layout=compact&theme=algolia)](https://github.com/worktpwls/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![AR Foundation](https://img.shields.io/badge/AR%20Foundation-0F1014?style=flat&logo=unity&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🤝🏻 &nbsp;Links
-<a href="https://seroi-programming.tistory.com/"><img src="https://img.shields.io/badge/Blog-Web-blue"/></a>
-<a href="https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EC%9E%A5-4604a1360/"><img src="https://img.shields.io/badge/Linkedin-Web-blue"/></a>
-<a href="https://worktpwls.github.io"><img src="https://img.shields.io/badge/Portfoilo-Web-blue"/></a>\
-<a href="worktpwls@gmail.com"><img src="https://img.shields.io/badge/-worktpwls@gmail.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
+## 📍 Current Work
+
+삼성 E&A 사내 폐쇄망에서 LLM 온프레미스 RAG 시스템을 구축·운영합니다.
+
+- 추론 서빙: vLLM·SGLang 비교 평가 후 **SGLang 메인 채택** (RadixAttention 기반 KV 캐시 공유 구조가 검색-재순위-생성 멀티 스텝 RAG에 적합)
+- 모델·인덱싱: Gemma 계열 fine-tuning · BAAI/BGE-M3 (1024d) · BGE-Reranker-v2-M3 · Qdrant
+- 인프라: 온프레미스 GPU **DGX Spark**, 모델 핫스왑 운영 자동화
+
+## 🗂️ Core Competencies
+
+- **Enterprise RAG · On-Premise LLM Deployment** — vLLM / SGLang / Ollama · Qdrant · BGE · LangChain · DGX Spark
+- **Computer Vision for Industrial Inspection** — YOLO Detection · Segmentation · Pose Estimation · OpenCV
+- **AR & Mobile AI Engineering** — Unity · AR Foundation · Markerless AR · Point Cloud · Android·iOS
+- **SDK Productization & End-to-End Delivery** — 학습→배포→Unity Package SDK (DTA-Core)
+- **On-Device / Edge AI** — PyTorch fine-tuning · Native 라이브러리화 · 오프라인-온라인 정합 보정
+
+## 📂 Projects
+
+| 클라이언트 | 프로젝트 | 도메인 | 핵심 기술 | 기간 |
+|---|---|---|---|---|
+| **삼성 E&A** | 사내 폐쇄망 RAG 시스템 | Enterprise RAG | SGLang · Qdrant · BGE-M3 · LangChain · DGX Spark | 2025 ~ 진행 중 |
+| **삼성 E&A** | LLM 이미지 모델 온디바이스 추론 | Edge AI | PyTorch · Android·iOS Native · FP16 양자화 | 2025.11 ~ 진행 중 |
+| **한국건설기술연구원 (KICT)** | 교량 검측 AI (DTA-Core SDK화) | Industrial CV · AR | YOLO Det·Seg·Pose · OpenCV Hu-Moment · Unity AR Foundation | 2025.05 ~ 진행 중 |
+| **싱가포르 HDB** | 공공주택 불법 적치물 검출 | Public CV · AR | YOLO Segment · Roboflow · AR Foundation · Google Maps API | 2025.03 ~ 2025.07 |
+| **삼성 DS** | 반도체 라인 디지털 트윈 | Digital Twin | NVIDIA Omniverse · Isaac Sim | 2024.08 ~ 2025.02 |
+| (외주) | 실내 네비게이션 (SLAM) | Indoor Localization | Unity · ROS2 · Vuforia · SLAM | 2024.02 ~ 2024.07 |
+| **연우피씨엔지니어링** | CAD/BIM Unity 솔루션 다년 (UniCAD 외) | CAD/BIM Industrial | Unity · C# · AutoCAD · ObjectARX · IFC · Avalonia | 2021 ~ 2023 |
+
+> 보안 클라이언트의 시스템 디테일은 비공개. 자세한 내용은 [Portfolio](https://worktpwls.github.io/portfolio/) 페이지 참고.
+
+## 🌐 Links
+
+- **Portfolio**: https://worktpwls.github.io
+- **LinkedIn**: https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EC%9E%A5-4604a1360/
+- **Email**: worktpwls@gmail.com
